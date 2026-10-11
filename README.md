@@ -1,4 +1,4 @@
-# Software Testing Lab 4 — The Library Alert System
+# Software Testing Lab 4 - The Library Alert System
 
 ## Overview
 
